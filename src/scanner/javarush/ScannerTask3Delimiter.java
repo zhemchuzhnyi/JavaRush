@@ -2,7 +2,7 @@ package scanner.javarush;
 
 import java.util.Scanner;
 
-public class scannerTask3Delimiter {
+public class ScannerTask3Delimiter {
 
     public static void main(String[] args) {
 
