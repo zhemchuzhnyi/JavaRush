@@ -18,5 +18,7 @@ public class ScannerExample { // Переименован класс, чтобы
 
         // Закрываем сканер (хорошая практика)
         scanner.close();
+
     }
+
 }
