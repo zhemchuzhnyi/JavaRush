@@ -16,7 +16,7 @@ public class BoolTask1 {
 
         int min = 0;
         int max = 100;
-        int temperature = -20;
+        int temperature = -2;
         boolean isIce = (temperature < min); // isIce - содержит истину
         boolean isSteam = (temperature > max); // isSteam - содержит ложь
 
