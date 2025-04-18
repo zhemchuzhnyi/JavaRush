@@ -7,7 +7,7 @@ public class BoolTask1 {
         boolean isOK = true; // isOK -  содержит значение true - истина
         boolean hasError = false; // - hasError - содержит false - ложь
 
-        int age = 7;
+        int age = 70;
         boolean isSenior = (age > 65); // - содержит значение true - истина
 
         int record = 612;
