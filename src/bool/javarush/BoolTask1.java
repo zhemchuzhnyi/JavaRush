@@ -14,7 +14,7 @@ public class BoolTask1 {
         int value = 615;
         boolean hasNewRecord = (value > record); // - переменная hasNewRecord - содержит значение true - истина
 
-        int min = 00000;
+        int min = 000000;
         int max = 100;
         int temperature = -20;
         boolean isIce = (temperature < min); // isIce - содержит истину
