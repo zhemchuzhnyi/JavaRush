@@ -14,7 +14,7 @@ public class Operations {
 
         // Остаток от деления
 
-        int x = 33;
+        int x = 333;
         int y = 33 % 2;
         System.out.println(y);
         /*
