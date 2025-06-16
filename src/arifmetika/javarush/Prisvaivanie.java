@@ -6,7 +6,7 @@ public class Prisvaivanie {
     public static void main(String[] args) {
 
         int x = 33;
-        int y = 9399;
+        int y = 999;
 
         System.out.println(x == y);
 
