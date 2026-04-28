@@ -5,4 +5,5 @@ public class Task1 {
         String greet = "Hello, World!";
         System.out.println(greet);
     }
+
 }
